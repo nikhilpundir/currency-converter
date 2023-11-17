@@ -13,7 +13,7 @@ Welcome to the Currency Converter React App! This application allows real-time c
 
 ## Demo
 
-![Currency Converter Demo](https://link.to/your/project/demo.gif)
+![Currency Converter Demo](https://curconv-nikp.netlify.app/)
 
 ## Usage
 
